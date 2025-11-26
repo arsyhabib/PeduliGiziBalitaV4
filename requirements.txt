@@ -1,0 +1,36 @@
+# ==============================================================================
+#                    AnthroHPK v4.0 - Python Dependencies
+#                       Render.com Deployment Ready
+# ==============================================================================
+
+# Core Framework
+fastapi==0.115.4
+uvicorn[standard]==0.32.0
+
+# Gradio UI Framework
+gradio==5.7.1
+
+# Data Processing
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.3
+
+# Visualization
+matplotlib==3.9.2
+
+# PDF Generation
+reportlab==4.2.5
+
+# HTTP Requests
+httpx==0.27.2
+requests==2.32.3
+
+# Utilities
+python-dateutil==2.9.0.post0
+python-multipart==0.0.12
+
+# Type hints support
+typing-extensions==4.12.2
+
+# Timezone support
+pytz==2024.2
