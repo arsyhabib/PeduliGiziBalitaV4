@@ -8,8 +8,7 @@ fastapi==0.115.4
 uvicorn[standard]==0.32.0
 
 # Gradio UI Framework
-gradio==5.7.1
-
+gradio==4.44.1
 # Data Processing
 numpy==1.26.4
 scipy==1.14.1
